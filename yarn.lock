@@ -19,3 +19,8 @@ csstype@^2.2.0:
   version "2.6.1"
   resolved "https://registry.yarnpkg.com/csstype/-/csstype-2.6.1.tgz#4cfbf637a577497036ebcd7e32647ef19a0b8076"
   integrity sha512-wv7IRqCGsL7WGKB8gPvrl+++HlFM9kxAM6jL1EXNPNTshEJYilMkbfS2SnuHha77uosp/YVK0wAp2jmlBzn1tg==
+
+framer@^1.0:
+  version "1.1.5"
+  resolved "https://registry.yarnpkg.com/framer/-/framer-1.1.5.tgz#5660df48438b404788f59991159057add3d0192a"
+  integrity sha512-o6dIB6KGF8M63LAfmqggoTjqBtM2Z1T30+nPCZO7AR/6zS191ze2/uGttnrtpEihNzN+6GvFJ3QJLClk0ObDxA==

@@ -4,6 +4,7 @@ Icon\r
 
 # Framer
 .cache
+.env
 .config.json
 .backups
 .framer-lock
